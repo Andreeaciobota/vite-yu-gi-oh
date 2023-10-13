@@ -1,0 +1,9 @@
+/* mixing */
+
+@mixin container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+
+}
